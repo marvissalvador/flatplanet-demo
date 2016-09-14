@@ -1,0 +1,5 @@
+c:\users\marvi\documents\visual studio 2015\Projects\ClickDatabase\ClickDatabase\bin\Debug\ClickDatabase.dacpac
+c:\users\marvi\documents\visual studio 2015\Projects\ClickDatabase\ClickDatabase\obj\Debug\ClickDatabase.dll
+c:\users\marvi\documents\visual studio 2015\Projects\ClickDatabase\ClickDatabase\obj\Debug\ClickDatabase.pdb
+c:\users\marvi\documents\visual studio 2015\Projects\ClickDatabase\ClickDatabase\bin\Debug\ClickDatabase.dll
+c:\users\marvi\documents\visual studio 2015\Projects\ClickDatabase\ClickDatabase\bin\Debug\ClickDatabase.pdb

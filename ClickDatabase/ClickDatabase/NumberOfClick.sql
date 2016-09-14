@@ -1,0 +1,6 @@
+﻿CREATE TABLE [dbo].[NumberOfClick]
+(
+	[Id]  INT IDENTITY (1, 1) NOT NULL,
+	[Counter] INT NOT NULL
+	PRIMARY KEY CLUSTERED ([ID] ASC)
+)
